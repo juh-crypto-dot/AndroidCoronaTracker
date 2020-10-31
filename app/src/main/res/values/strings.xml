@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CoronaTracker</string>
+    <string name="send">Send Message</string>
+    <string name="hint">Enter a Message</string>
+    <string name="chooser">Send message via...</string>
+    <string name="load">Load cities</string>
+</resources>
